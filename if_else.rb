@@ -12,8 +12,8 @@ end
 #comparacion de strings
 print "Ingresa el nombre de una fruta: "
 fruta = gets.chomp
-if fruta == "banana"
+if fruta == 'banana'
     puts "Qué rica fruta es la #{fruta.upcase}, hay que hacer un smoothie."
-    else
+else
     puts "Esa fruta no me gusta"
 end
