@@ -21,5 +21,10 @@ arregloString.delete_at(2)
 print arregloString
 
 
+# print arregloInt      #Para que borre de manera aleatoria
+# puts""
+# arregloInt.delete(rand(0..arregloInt.length))
+# print arregloInt
+
 
 
